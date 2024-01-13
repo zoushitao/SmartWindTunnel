@@ -12,7 +12,8 @@ Smart Wind Tunnel Control System Design. The smart wind tunnel is a wall consist
 ## Demonstration
 
 ### Our Wind Tunnel Lab
-![Alt Text](example/wind_tunnel.png)
+
+![Alt Text](example/wind_tunnel.jpg)
 
 ### Terminal based on Qt
 ![Alt Text](example/qt_terminal.png)
