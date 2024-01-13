@@ -1,0 +1,13 @@
+# ninja log v5
+1	1497	1705164605488409938	terminal_autogen/timestamp	b2842c963e17c2fe
+1	1497	1705164605488409938	terminal_autogen/mocs_compilation.cpp	b2842c963e17c2fe
+1	1497	1705164605488409938	/Users/zoushitao/Documents/GitHub/SmartWindTunnel/Version1.0/build-desktop-Qt_6_6_0_for_macOS-Debug/terminal_autogen/timestamp	b2842c963e17c2fe
+1	1497	1705164605488409938	/Users/zoushitao/Documents/GitHub/SmartWindTunnel/Version1.0/build-desktop-Qt_6_6_0_for_macOS-Debug/terminal_autogen/mocs_compilation.cpp	b2842c963e17c2fe
+1497	1639	1705164605675021553	.rcc/qrc_terminal.cpp	fdfa5bd99fe38d14
+1497	1639	1705164605675021553	/Users/zoushitao/Documents/GitHub/SmartWindTunnel/Version1.0/build-desktop-Qt_6_6_0_for_macOS-Debug/.rcc/qrc_terminal.cpp	fdfa5bd99fe38d14
+1647	2407	1705164606432722307	CMakeFiles/terminal.dir/.rcc/qrc_terminal.cpp.o	ea72aef6883ca03b
+1642	7634	1705164611645083773	CMakeFiles/terminal.dir/main.cpp.o	2bbee41b094c684f
+1641	8229	1705164612238645407	CMakeFiles/terminal.dir/console.cpp.o	fa4494cac3fb6baa
+1639	8642	1705164612651415949	CMakeFiles/terminal.dir/terminal_autogen/mocs_compilation.cpp.o	1143c5cdd30bd512
+1645	8941	1705164612948945938	CMakeFiles/terminal.dir/settingsdialog.cpp.o	c0d69bc9b8c39a59
+1644	9797	1705164613804187155	CMakeFiles/terminal.dir/mainwindow.cpp.o	c1556ef35082b953

@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="images/application-exit.png">/Users/zoushitao/Documents/GitHub/SmartWindTunnel/Version1.0/desktop/images/application-exit.png</file>
+    <file alias="images/clear.png">/Users/zoushitao/Documents/GitHub/SmartWindTunnel/Version1.0/desktop/images/clear.png</file>
+    <file alias="images/connect.png">/Users/zoushitao/Documents/GitHub/SmartWindTunnel/Version1.0/desktop/images/connect.png</file>
+    <file alias="images/disconnect.png">/Users/zoushitao/Documents/GitHub/SmartWindTunnel/Version1.0/desktop/images/disconnect.png</file>
+    <file alias="images/settings.png">/Users/zoushitao/Documents/GitHub/SmartWindTunnel/Version1.0/desktop/images/settings.png</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,9 @@
+/Users/zoushitao/Documents/GitHub/SmartWindTunnel/Version1.0/build-desktop-Qt_6_6_0_for_macOS-Debug/CMakeFiles/terminal.dir
+/Users/zoushitao/Documents/GitHub/SmartWindTunnel/Version1.0/build-desktop-Qt_6_6_0_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/zoushitao/Documents/GitHub/SmartWindTunnel/Version1.0/build-desktop-Qt_6_6_0_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/zoushitao/Documents/GitHub/SmartWindTunnel/Version1.0/build-desktop-Qt_6_6_0_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/zoushitao/Documents/GitHub/SmartWindTunnel/Version1.0/build-desktop-Qt_6_6_0_for_macOS-Debug/CMakeFiles/install.dir
+/Users/zoushitao/Documents/GitHub/SmartWindTunnel/Version1.0/build-desktop-Qt_6_6_0_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/zoushitao/Documents/GitHub/SmartWindTunnel/Version1.0/build-desktop-Qt_6_6_0_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/zoushitao/Documents/GitHub/SmartWindTunnel/Version1.0/build-desktop-Qt_6_6_0_for_macOS-Debug/CMakeFiles/terminal_autogen_timestamp_deps.dir
+/Users/zoushitao/Documents/GitHub/SmartWindTunnel/Version1.0/build-desktop-Qt_6_6_0_for_macOS-Debug/CMakeFiles/terminal_autogen.dir
