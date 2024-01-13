@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/connect.png</file>
+        <file>images/disconnect.png</file>
+        <file>images/application-exit.png</file>
+        <file>images/settings.png</file>
+        <file>images/clear.png</file>
+        <file>images/icons8-bug-60.png</file>
+        <file>images/icons8-error-96.png</file>
+        <file>images/icons8-check-96.png</file>
+        <file>images/icons8-stop-96.png</file>
+        <file>images/icons8-play-100.png</file>
+        <file>images/help.png</file>
+        <file>images/unplugged.png</file>
+        <file>images/terminal.png</file>
+        <file>images/info.png</file>
+        <file>images/computer.png</file>
+        <file>images/dronejpg</file>
+        <file>images/aboutme.png</file>
+        <file>images/desktop.png</file>
+    </qresource>
+</RCC>
